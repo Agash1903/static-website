@@ -1,0 +1,55 @@
+.div1{
+    border: solid 1px black;
+    padding: 30px 50px;
+    margin: 40px  50px 40px;
+    list-style-type: none;
+    background-color: aqua;
+} 
+
+li{
+    display: inline;
+    padding: 20px;
+    font-size: 16px;
+
+}
+.btn{
+    color: white;
+    background-color: yellow;
+}
+.btn2{
+    color: white;
+    background-color: rgb(72, 116, 235);
+}
+.ul1{
+    list-style-type: none;
+
+}
+img{
+    /* padding: 150px 300px 150px; */
+    /* width: 300px;
+    height: 500px; */
+}
+/* .div2{
+    background-color: yellow;
+    text-align: end;
+    color: aqua;
+} */
+
+.btn1{
+    background-color: yellow;
+}
+.div2{
+    border: solid 2px ;
+    border-collapse: collapse;
+}
+.div3{
+   border: solid 1px;
+   border-collapse: collapse;
+}
+.ul1{
+    text-align: left;
+}
+.cls1{
+    display: inline;
+    
+}
